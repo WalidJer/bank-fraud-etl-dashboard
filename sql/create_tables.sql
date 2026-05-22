@@ -1,0 +1,22 @@
+CREATE TABLE IF NOT EXISTS bank_transactions (
+    transactionid TEXT,
+    accountid TEXT,
+    transactionamount NUMERIC,
+    transactiondate TIMESTAMP,
+    transactiontype TEXT,
+    location TEXT,
+    deviceid TEXT,
+    ipaddress TEXT,
+    merchantid TEXT,
+    channel TEXT,
+    customerage INTEGER,
+    customeroccupation TEXT,
+    transactionduration INTEGER,
+    loginattempts INTEGER,
+    accountbalance NUMERIC,
+    previoustransactiondate TIMESTAMP,
+    transaction_hour INTEGER,
+    transaction_day TEXT,
+    time_since_previous_transaction_hours NUMERIC,
+    is_large_transaction BOOLEAN
+);
