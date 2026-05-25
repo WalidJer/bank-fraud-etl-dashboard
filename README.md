@@ -328,6 +328,8 @@ transform_bank_transactions
 load_bank_transactions_to_postgres
 ```
 
+![Airflow DAG](screenshots/Airflow_DAG.png)
+
 ---
 
 # Why Splitting Tasks Matters
