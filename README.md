@@ -411,7 +411,7 @@ PostgreSQL → fraud_db → bank_transactions
 - Debit vs Credit behavior
 - Peak transaction activity hours
 
-![Executive Overview](screenshots/PowerBi1.png)
+![Executive Overview](screenshots/powerBi1.png)
 
 ---
 
@@ -428,7 +428,7 @@ PostgreSQL → fraud_db → bank_transactions
 - High-value transaction monitoring
 - Risk distribution across transaction channels
 
-![Risk Monitoring](screenshots/PowerBi2.png)
+![Risk Monitoring](screenshots/powerBi2.png)
 
 
 ---
@@ -447,7 +447,7 @@ PostgreSQL → fraud_db → bank_transactions
 - High-risk transaction locations
 - Channel-based filtering
 
-![Location Risk](screenshots/PowerBi3.png)
+![Location Risk](screenshots/powerBi3.png)
 
 
 ---
